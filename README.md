@@ -2,7 +2,8 @@
 
 A stylish, modern contact manager built with **Python** and **PyQt5**. Easily add, edit, delete, and search contacts with a sleek **dark mode interface**, real-time filtering, and tagging support like ⭐ Favorites or 🚨 Emergency.
 
-![screenshot]()
+![Contact Manager Screenshot](images/screenshot.png)
+
 
 ## ✨ Features
 
